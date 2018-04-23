@@ -1,0 +1,6 @@
+{
+    "server": "localhost",
+    "database": "TEST",
+    "username": "sa",
+    "password": "MYsql123"
+}
